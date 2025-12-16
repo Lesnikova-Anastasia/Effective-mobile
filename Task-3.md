@@ -1,4 +1,4 @@
-# Задача 3.1. 
+# Task 3.1. 
 
 **1\. Общая информация**
 
@@ -328,7 +328,7 @@ RegisterResponse:
           schema:  
             $ref: '\#/components/schemas/ErrorResponse'
 
-# Задача 3.2.
+# Task 3.2.
 
 Регистрация нового пользователя на стороне бэкенда при вызове эндпоинта   
 POST /api/v1/auth/register.
